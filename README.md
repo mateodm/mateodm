@@ -1,19 +1,30 @@
 - 👋 Hi, I’m @mateodm
-- 🌱 I’m currently learning Full Stack Programming...
+- 🌱 I have experience in Backend using Express.js and a strong command in Frontend with modern frameworks like Next.js. In addition, I have a solid command of JavaScript, HTML and CSS.
 - 📫 How to reach me in mateodm03@gmail.com...
-- 📫 My principal project is:
+- 📫My main projects are: Hive NFTs (https://hivenfts.com/) and Rising Star Utils (https://risingstarutils.xyz/)
+
+<h1> Rising Star Utils</h1>
+
+![image](https://github.com/user-attachments/assets/f64f6a49-981f-464e-8104-8ed2bcc11d0c)
+
+![image](https://github.com/user-attachments/assets/9c66f012-7d38-40f1-93b0-2bbadc9813b5)
+
+![image](https://github.com/user-attachments/assets/885be1a8-a44a-4118-b781-ece78586061f)
+
+![image](https://github.com/user-attachments/assets/69c60c99-2fd3-4685-b63f-afbc738dfd0c)
+
+![image](https://github.com/user-attachments/assets/546869ea-3de0-42ad-ad1e-8b56c4cc7ed4)
 
 
-<!---
-mateodm/mateodm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1> Hive NFTs </h1>
 
-![image](https://github.com/user-attachments/assets/5490cfa9-9c33-4d19-a70d-d10b8a1e740d)
-
-![image](https://github.com/user-attachments/assets/5e0c5205-44fc-40d0-95b8-8d2292900a7c)
-
-![image](https://github.com/user-attachments/assets/94ff5711-63d6-43b8-a163-621b46f454bc)
+![image](https://github.com/user-attachments/assets/58faac78-3c5c-4ff5-85a8-2ff5a4c7d483)
 
 
-![image](https://github.com/user-attachments/assets/0766d6ce-8c95-4c29-98ec-a625c67faa05)
+![image](https://github.com/user-attachments/assets/494f4b34-5fde-4450-baea-2e5f1bf50112)
+
+![image](https://github.com/user-attachments/assets/23136ffb-e1a1-4346-9572-999056214b63)
+
+![image](https://github.com/user-attachments/assets/ab74eebc-8111-4922-93c5-df02967afde6)
+
+
