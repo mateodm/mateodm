@@ -3,7 +3,7 @@
 - 📫 How to reach me in mateodm03@gmail.com...
 - 📫My main projects are: Hive NFTs (https://hivenfts.com/) and Rising Star Utils (https://risingstarutils.xyz/)
 
-<h1> Rising Star Utils</h1>
+<h2> Rising Star Utils</h2>
 
 ![image](https://github.com/user-attachments/assets/f64f6a49-981f-464e-8104-8ed2bcc11d0c)
 
@@ -16,7 +16,7 @@
 ![image](https://github.com/user-attachments/assets/546869ea-3de0-42ad-ad1e-8b56c4cc7ed4)
 
 
-<h1> Hive NFTs </h1>
+<h2> Hive NFTs </h2>
 
 ![image](https://github.com/user-attachments/assets/58faac78-3c5c-4ff5-85a8-2ff5a4c7d483)
 
